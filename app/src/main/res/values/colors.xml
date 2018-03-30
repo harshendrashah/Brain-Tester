@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Neon Colors -->>
+    <color name="neonRed">#FF0000</color>
+    <color name="neonYellow">#FFFF00</color>
+    <color name="neonGreen">#00FF00</color>
+    <color name="neonBlue">#00FFFF</color>
+    <color name="neonPink">#FF0099</color>
+    <color name="neonPurple">#9900FF</color>
+    <color name="neonOrange">#FF6600</color>
+
+</resources>
